@@ -1,76 +1,44 @@
-# Analysis and Design of Algorithms 👽
-## Collection of all programs for ADA lab 2025
+# Analysis and Design of Algorithms 
+## Complete Collection of ADA Lab Programs – 2025
 
 ### Index
-[Sorting](./sorting/README.md)
-<br/>
-- [insertion Sort](./sorting/insertionsort.cpp)
-- [Selection Sort](./sorting/selectionsort.cpp)
-- [Bubble Sort](./sorting/bubblesort.cpp)
-- [Merge Sort](./sorting/mergesort.cpp)
-- [Quick Sort](./sorting/quicksort.cpp)
-- [Iterative Quick Sort](./sorting/iterative_quicksort.cpp)
 
+[**Sorting**](./sorting/README.md)  
+- [Insertion Sort](./sorting/insertionsort.cpp)  
+- [Selection Sort](./sorting/selectionsort.cpp)  
+- [Bubble Sort](./sorting/bubblesort.cpp)  
+- [Merge Sort](./sorting/mergesort.cpp)  
+- [Quick Sort](./sorting/quicksort.cpp)  
+- [Iterative Quick Sort](./sorting/iterative_quicksort.cpp)  
 
-[MagicSquare](./magicsquare/README.md)
-<br/>
-[Peak Element](./peak/README.md)
-<br/>
-[KnapSack](./knapsack/README.md)
-<br/>
-[activityselection](./greedy/activity_selection.cpp)
-<br/>
-[horner rule](./horner_rule/README.md)
-<br/>
-[jaccard_similiarity](./jaccard_similarity/README.md)
-<br/>
-[max and min in an array using divide and conquer](./divide_conquer/max_min.cpp)
-<br/>
-[cosine Similiarity](./cosine_similiarity/README.md)
-<br/>
-[binary search using divide and conquer](./divide_conquer/binary_search.cpp)
-<br/>
+[**Magic Square**](./magicsquare/README.md)  
+[**Peak Element**](./peak/README.md)  
+[**Knapsack Problem**](./knapsack/README.md)  
+[**Activity Selection (Greedy Approach)**](./greedy/activity_selection.cpp)  
+[**Horner’s Rule**](./horner_rule/README.md)  
+[**Jaccard Similarity**](./jaccard_similarity/README.md)  
+[**Find Max and Min using Divide and Conquer**](./divide_conquer/max_min.cpp)  
+[**Cosine Similarity**](./cosine_similiarity/README.md)  
+[**Binary Search using Divide and Conquer**](./divide_conquer/binary_search.cpp)  
 
-[Matrix](./matrix/README.md)
-  - [matrix Multiplication Iterative](./matrix/matrix_multiplication_brute_force.cpp)
-  - [matrix Multiplication divide_conquer ](./matrix/matrix_multiplication.cpp)
-  - [strasson method ](./matrix/strassen.cpp)
+[**Matrix Operations**](./matrix/README.md)  
+- [Matrix Multiplication – Iterative](./matrix/matrix_multiplication_brute_force.cpp)  
+- [Matrix Multiplication – Divide and Conquer](./matrix/matrix_multiplication.cpp)  
+- [Strassen’s Algorithm](./matrix/strassen.cpp)  
 
+[**Dijkstra’s Algorithm**](./dijikstra/README.md)  
 
-[Dijisktra Algorithms](./dijikstra/README.md)
+[**Minimum Spanning Tree Algorithms**](./minimum_spanning_tree/README.md)  
+- [Prim’s Algorithm](./minimum_spanning_tree/prims.cpp)  
+- [Kruskal’s Algorithm](./minimum_spanning_tree/kruskal.cpp)  
 
-<br/>
+[**Dynamic Programming**](./dp/README.md)  
+- [Multistage Graph Problem](./dp/multistage_graph.cpp)  
+- [All-Pairs Shortest Path (Floyd-Warshall Algorithm)](./dp/floyd_warshall.cpp)  
 
-[Minimum Spanning tree](./minimum_spanning_tree/README.md)
+[**N-Queens Problem**](./nqueens/README.md)  
+[**0-1 Knapsack Problem**](./0-1Knapsack/README.md)  
+[**Travelling Salesperson Problem (TSP)**](./travellingSalesperson.cpp)  
+[**Longest Common Subsequence (LCS)**](./longest_common_subsequence)  
 
-  - [Prims Algorithms](./minimum_spanning_tree/prims.cpp)
-
-  - [Kruskal Algorithms](./minimum_spanning_tree/kruskal.cpp)
-
-
-[dynamic Programming](./dp/README.md)
-  - [MultiStage Graph](./dp/multistage_graph.cpp)
-
-  - [All pair Shortest Path](./dp/floyd_warshall.cpp)
-
-[nqueens](./nqueens/README.md)
-<br/>
-[0-1Knapsack](./0-1Knapsack/README.md)
-<br/>
-[travelling Salesperson](./travellingSalesperson.cpp)
-<br/>
-[Longest_common_subsequence](./longest_common_subsequence)
-<br/>
-
-
-<br/>
-
-
-[Plots](./plot/README.md)
-
-<br/>
-
-
-
-
-
+[**Graphical Plots**](./plot/README.md)
